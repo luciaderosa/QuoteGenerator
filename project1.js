@@ -40,7 +40,7 @@ const quotes = [
     person: `Anonymous`,
   },
   {
-    quote: `"The holy passion of friendship is of so sweet and steady and loyal and enduring a nature that it will last through a whole lifetime, if not asked to lend money.te10"`,
+    quote: `"The holy passion of friendship is of so sweet and steady and loyal and enduring a nature that it will last through a whole lifetime, if not asked to lend money."`,
     person: `Mark Twain`,
   },
 ];
